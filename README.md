@@ -2,3 +2,4 @@
 #List of names
 - Eddy
 - Angel
+- Vale
